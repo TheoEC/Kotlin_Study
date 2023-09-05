@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Primeiro App Dio</string>
+    <string name="Entry_Title">Olá Dev</string>
+    <string name="mainTitle">Modo Em Desenvolvimento</string>
+    <string name="turnScreenOff">Desligar tela</string>
+</resources>
